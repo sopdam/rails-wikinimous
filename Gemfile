@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
+# This gem is a port of Perl's Data::Faker library that generates fake data.
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
